@@ -1,0 +1,1 @@
+This is a version of the customary sample blog application but Mongoid (and MongoDB) is used instead of Active Record and a regular Relational Database.
